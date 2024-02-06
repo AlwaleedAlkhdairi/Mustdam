@@ -17,9 +17,9 @@ Leveraging AI to revolutionize the white lands survey and real estate price pred
 - **Land Identification**: Classifying lands with YOLO.
   - Precision: 0.958, Recall: 0.912, mAP50: 0.97, mAP50-95: 0.856.
 - **Price Prediction**: Real estate valuation using XGBRegressor.
-  - MAE: 167500.4522646092, RMSE: 256058.1049499929, R-squared: 0.9052166768884047.
+  - MAE: 167500.452, RMSE: 256058.104, R-squared: 0.905.
 - **Forecasting**: Future price trends with Exponential Smoothing.
-  - MAE: 266856.6032438212
+  - MAE: 266856.603
 ## Objectives
 Crafting a comprehensive platform for real estate analytics to support sustainable development in the Kingdom.
 
