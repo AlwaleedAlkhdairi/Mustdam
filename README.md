@@ -27,7 +27,7 @@ Crafting a comprehensive platform for real estate analytics to support sustainab
 Carefully curated datasets from Suhail and Aqar are the cornerstone of our powerful prediction models.
 
 ## Methodology
-Our approach integrates YOLO for identification, XGBRegressor for price prediction, and ES for forecasting, ensuring high accuracy and reliability.
+Our approach integrates YOLO for the identification of white land, XGBRegressor for price prediction, and ES for forecasting, ensuring high accuracy and reliability.
 
 ## Conclusion
 This project represents a significant step towards achieving the ambitious goals of Vision 2030 through cutting-edge AI and collaborative innovation.
