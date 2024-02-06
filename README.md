@@ -2,7 +2,7 @@
 SDAIA T5 Bootcamp - Capstone Project
 
 ## Team Mustadm
-- **Noura Alburidi**: Data Collection, Data Preprocessing, Algorithm Development, write report
+- **Norah Alburidi**: Data Collection, Data Preprocessing, Algorithm Development, write report
 - **Atheer Alkthiri**: Website Creation, Integration of Models 
 - **Alwaleed Alkhdairi**: Model Tuning, Data Analysis
 - **Ghada Alsubaie**: Data Collection, Data Modeling, Algorithm Development
@@ -12,10 +12,12 @@ SDAIA T5 Bootcamp - Capstone Project
 Leveraging AI to revolutionize the white lands survey and real estate price prediction in Riyadh, in line with Saudi Vision 2030.
 
 ## Features
-- **Land Identification**: Advanced classification with YOLO.
-- **Price Prediction**: Precise real estate valuation using XGBRegressor.
-- **Forecasting**: Future price trends forecasted with Exponential Smoothing.
-
+- **Land Identification**: Classifying lands with YOLO.
+  - Precision: 0.958, Recall: 0.912, mAP50: 0.97, mAP50-95: 0.856.
+- **Price Prediction**: Real estate valuation using XGBRegressor.
+  - MAE: 167500.4522646092, RMSE: 256058.1049499929, R-squared: 0.9052166768884047.
+- **Forecasting**: Future price trends with Exponential Smoothing.
+  - MAE: 266856.6032438212
 ## Objectives
 Crafting a comprehensive platform for real estate analytics to support sustainable development in the Kingdom.
 
