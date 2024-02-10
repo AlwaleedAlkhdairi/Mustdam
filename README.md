@@ -4,10 +4,10 @@ SDAIA T5 Bootcamp - Capstone Project
 <img src="Mustdam.jpeg" alt="Logo" width="220" height="180">
 
 ## Team Mustadm
-- **Norah Alburidi**: Data Collection, Data Preprocessing, Algorithm Development, write report
-- **Atheer Alkthiri**: Website Creation, Integration of Models 
-- **Alwaleed Alkhdairi**: Model Tuning, Data Analysis
-- **Ghada Alsubaie  **: Data Collection, Data Modeling, Algorithm Development
+- **[Norah Alburidi](https://www.linkedin.com/in/nora-alburidi)**: Data Collection, Data Preprocessing, Algorithm Development, write report
+- **[Atheer Alkthiri](https://www.linkedin.com/in/atheer-alkthiri-b9294a278)**: Website Creation, Integration of Models 
+- **[Alwaleed Alkhdairi](https://www.linkedin.com/in/alwaleed-alkhdairi-774bb9214)**: Model Tuning, Data Analysis
+- **[Ghada Alsubaie](https://linkedin.com/in/ghadahalsubaie/)**: Data Collection, Data Modeling, Algorithm Development
 - **Supervisor**: Dr. [Mariam Elmasry](https://www.linkedin.com/in/mariam-elmasry-/)
 
 ## Introduction
