@@ -7,8 +7,8 @@ SDAIA T5 Bootcamp - Capstone Project
 - **Norah Alburidi**: Data Collection, Data Preprocessing, Algorithm Development, write report
 - **Atheer Alkthiri**: Website Creation, Integration of Models 
 - **Alwaleed Alkhdairi**: Model Tuning, Data Analysis
-- **Ghada Alsubaie**: Data Collection, Data Modeling, Algorithm Development
-- **Supervisor**: Dr. Mariam Elmasry
+- **Ghada Alsubaie  **: Data Collection, Data Modeling, Algorithm Development
+- **Supervisor**: Dr. [Mariam Elmasry](https://www.linkedin.com/in/mariam-elmasry-/)
 
 ## Introduction
 Leveraging AI to revolutionize the white lands survey and real estate price prediction in Riyadh, in line with Saudi Vision 2030.
